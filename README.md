@@ -5,6 +5,7 @@
 - InsertTest.php
 - alldelete.php
 - dbconnect.php
+- delete.php
 
 ## Consumer용
 - getjsonTest.php
